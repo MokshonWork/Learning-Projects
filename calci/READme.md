@@ -71,14 +71,7 @@ This interactive Python program goes far beyond simple arithmetic, offering a fu
 - Checks for division by zero and undefined trigonometric values.
 - Prevents crashes from unexpected user entries.
 
----
-
-## ✨ Screenshots
-
-![Menu Preview](https://user-images.githubusercontent.com/0000000/0000000000/menu-preview.png)
-*Sample Calculator Menu*
-
----
+------
 
 ## 🏗️ Code Structure
 
@@ -106,12 +99,6 @@ This interactive Python program goes far beyond simple arithmetic, offering a fu
 
 Want to improve or add new features?  
 Feel free to fork the repo, submit pull requests, or open issues.
-
----
-
-## 📄 License
-
-This project is open source under the MIT License.
 
 ---
 
