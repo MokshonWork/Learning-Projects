@@ -42,7 +42,15 @@ A simple and fun number-guessing game built with Python. Guess the randomly chos
 
 5\. Run the game using:
 
-&nbsp;  ```bash
+&nbsp;  bash python guess\_the\_number.py
 
-&nbsp;  python guess\_the\_number.py
+bash git clone https://github.com/MokshonWork/Learning-Projects.git cd Learning-Projects/guessnum_punishment ▶️ Usage Run the game using Python:
+
+bash python guessnum_punishment.py Follow the instructions on the screen to guess the correct number and avoid the punishment!
+
+📚 Learning Journey This project is part of my ongoing learning journey in Python programming. Feel free to check out my other projects in this repository!
+
+🤝 Contributing Suggestions and improvements are welcome! Just fork the repo and submit a pull request.
+
+📄 License This project is for educational purposes.
 
