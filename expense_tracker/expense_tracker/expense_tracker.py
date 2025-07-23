@@ -85,7 +85,7 @@ def main_menu():
         elif choice == '5':
             summarize_expenses_by_category()
         elif choice == '6':
-            print("Exiting Expense Tracker. Goodbye!")
+            print("Exiting Expense Tracker. ")
             break
         else:
             print("Invalid choice. Please try again.")
